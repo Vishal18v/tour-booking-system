@@ -1,0 +1,1 @@
+Basic springboot application mimicking controller->service->repository pattern
